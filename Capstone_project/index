@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Capstone 1</title>
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+    <p>
+        <img src="./image0.jpeg" alt="Profile photo" class="image-ronde"/>
+        <center>
+            <h1>Florian Chevalier</h1>
+            <p>
+                Web developer and engineering student
+            </p>
+        </center>
+    </p>
+    <hr>
+    <h2>Education</h2>
+    <p>
+        <ul>
+            <li>Computer science and engineering, LiU (September 2024 - January 2025)</li>
+            <li>Engineering, Polytech Nancy (2023 - 2026)</li>
+            <li>CPGE Mathematics/Physics, Lycée Parc des Loges (2020 - 2023)</li>
+        </ul>
+    </p>
+    <hr>
+    <h2>Work Experience</h2>
+    <p>
+        <ul>
+            <li>Department Salesman Decathlon (July 2022-August 2022)
+                <ul>
+                    <li>Facing</li>
+                    <li>Stock control</li>
+                    <li>Customer order</li>
+                    <li>Checkout</li>
+                    <li>Customer information</li>
+                    <li>Product shelving</li>
+                </ul>
+            </li> <br>
+            <li>French tennis referee A1 (2018-)
+                <ul>
+                    <li>National level match refereeing</li>
+                    <li>Simple and double match refereeing</li>
+                </ul>
+            </li>
+        </ul>
+    </p>
+    <hr>
+    <h2>Skills</h2>
+    <p>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>C++</li>
+            <li>Java</li>
+            <li>Python</li>
+            <li>Matlab</li>
+        </ul>
+    </p>
+    <hr>
+    <footer>
+        <center>
+            <small>
+                Copyright © 2024 Florian Chevalier. All Rights Reserved.
+            </small>
+        </center>
+    </footer>
+</body>
+</html>

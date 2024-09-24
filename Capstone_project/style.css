@@ -1,0 +1,16 @@
+.image-ronde{
+    width: 150px;
+    height: 150px;
+    max-width: 100%;
+    height: auto;
+    border: none;
+    /*
+    -moz-border-radius: 75px;
+    -webkit-border-radius: 75px;
+    border-radius: 50%;
+    */
+    display: block;
+    margin: 0 auto;
+    clip-path: circle();
+    float: left;
+}
